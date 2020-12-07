@@ -15,7 +15,6 @@ public class test1 {
     public static void main(String[] args) {
 
         List list = new ArrayList();
-
         Map map=new HashMap();
         map.put("name","1");
         list.add(map);
